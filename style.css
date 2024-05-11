@@ -1,0 +1,95 @@
+h1 {
+    color: darkgoldenrod;
+    background-color: aqua;
+    font-family: "Microsoft Sans Serif", serif;
+    font-size: 2vw;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+}
+
+h2 {
+    color: rgba(123, 12, 1, 40%);
+}
+
+h3 {
+    color: #435623;
+}
+
+h4 {
+    color: hsla(123, 50%, 50%);
+}
+
+div {
+    width: 50vw;
+    height: 50vh;
+    background-color: sienna;
+    border: 4vh dotted aqua;
+    padding: 10vh;
+}
+
+p {
+    color:white;
+    line-height: 1.5vw;
+    letter-spacing: 0.1vw;
+    word-spacing: 1.25vw;
+}
+
+a {
+    text-decoration: none;
+}
+
+.poetsen-one-regular {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.one{
+    color: crimson;
+}
+
+.two {
+    font-size: 4rem;
+}
+
+#idone {
+    color: indigo;
+    font-size: 5rem;
+}
+
+div.text {
+    color: firebrick;
+    font-style: italic;
+}
+
+.link:link {
+    color: darkslateblue;
+}
+
+.visited:visited {
+    color: orange;
+}
+
+.hover:hover{
+    color: fuchsia;
+}
+
+.active:active {
+    color: teal;
+}
+
+.parent {
+    font-size: 20px;
+    color: teal;
+    background-color: fuchsia;
+    font-style: italic;
+    width: 100px;
+    height: 100px;
+}
+
+.children {
+    background-color: inherit;
+    width: inherit;
+    height: inherit;
+}
